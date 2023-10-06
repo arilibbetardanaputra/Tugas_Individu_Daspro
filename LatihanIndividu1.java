@@ -8,7 +8,8 @@ public class LatihanIndividu1 {
 
         if (jarak < 5) {
             System.out.println("Gunakan Melee Weapon untuk pertarungan jarak dekat.");
-        } else {
+        } 
+        else {
             System.out.println("Gunakan Ranged Weapon untuk pertarungan jarak jauh.");
         }
 
